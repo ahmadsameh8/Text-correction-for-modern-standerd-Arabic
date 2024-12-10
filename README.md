@@ -62,7 +62,9 @@ This Notebook fine-tunes the AraT5 model for text correction, targeting Modern s
 ### Key Features
 - Leverages Hugging Face's Transformers library.
 - Handles seq2seqtrainer for supervised finetuning with various hyperparameters.
+- Push model weights to Huggingface
 
 ### Usage
 - Configure the training parameters and dataset paths in the notebook.
-- Run the notebook to fine-tune the AraT5 model.
+- Run the notebook to fine-tune the AraT5 model and push model weights to Huggingface.
+
