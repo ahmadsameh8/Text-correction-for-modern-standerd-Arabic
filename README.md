@@ -1,7 +1,7 @@
 # Text-correction-for-modern-standerd-Arabic
 
 This repository contains Notebooks for finetuning Arat5v2 model capable of correcting errors in  modern standard arabic texts.
-
+Dataset can be accessed through: https://camel.abudhabi.nyu.edu/qalb-shared-task-2015/
 
 ## Table of Contents
 
